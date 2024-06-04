@@ -7,5 +7,9 @@ window.padding = {x = 10,y = 10}
 window.opacity = 0.8
 window.blur = true
 
-font.normal = {family = "Berkeley Mono", style = "Regular"}
+font.normal = {family = "BerkeleyMono Nerd Font", style = "Regular"}
+font.bold = {family = "BerkeleyMono Nerd Font", style = "Bold"}
+font.italic = {family = "BerkeleyMono Nerd Font", style = "Italic"}
 font.size = 14.0
+
+window.decorations_theme_variant = "Dark"
