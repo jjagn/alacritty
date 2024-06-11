@@ -10,6 +10,6 @@ window.blur = true
 font.normal = {family = "BerkeleyMono Nerd Font", style = "Regular"}
 font.bold = {family = "BerkeleyMono Nerd Font", style = "Bold"}
 font.italic = {family = "BerkeleyMono Nerd Font", style = "Italic"}
-font.size = 14.0
+font.size = 15.0
 
 window.decorations_theme_variant = "Dark"
